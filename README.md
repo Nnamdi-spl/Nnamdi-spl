@@ -17,7 +17,6 @@
 - <b>Splunk</b>
   - [Splunk SHC Rolling Upgrade](https://github.com/Nnamdi-spl/Splunk-SHC-Upgrade)
   - [Splunk Indexer Clustering](https://github.com/Nwuche01/Splunk-Indexer-Cluster)
-  - [Splunk Distributed Search with Independent Search Peers](https://github.com/Nwuche01/Splunk-Indexer-Cluster)
   - [Deploying Splunk apps updates using a Deployment Server](https://github.com/Nnamdi-spl/Deploying-Splunk-apps-and-configuration-updates-using-a-Deployment-Server)
 - <b>Malware Analysis</b>
   - [Walkthrough Demos of Malware Analysis with Wireshark](https://github.com/Nwuche01/MalwareAnalysisWith-Wireshak)
