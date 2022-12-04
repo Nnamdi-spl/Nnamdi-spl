@@ -21,6 +21,7 @@
   - [Deploying Splunk apps updates using a Deployment Server](https://github.com/Nnamdi-spl/Deploying-Splunk-apps-and-configuration-updates-using-a-Deployment-Server)
 - <b>Malware Analysis</b>
   - [Walkthrough Demos of Malware Analysis with Wireshark](https://github.com/Nwuche01/MalwareAnalysisWith-Wireshak)
+  - [Creating Custom rules with Snort ]()
 - <b>Certifications</b>
   - [Splunk Enterprise Security Certified Admin](https://www.credly.com/badges/603c0768-ddc7-4b9c-818f-fe10153c5f7c)
   - [Splunk Certified Admin](https://www.credly.com/badges/7e54841b-5247-4c26-b5d4-9089ecfdc43f)
