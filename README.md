@@ -25,7 +25,7 @@
   - [Creating Custom rules with Snort ](https://github.com/Nnamdi-spl/Creating-Custom-Rules-in-Snort)
 - <b>Certifications</b>
   - [Splunk Enterprise Security Certified Admin](https://www.credly.com/badges/603c0768-ddc7-4b9c-818f-fe10153c5f7c)
-  - [Splunk Certified Admin](https://www.credly.com/badges/7e54841b-5247-4c26-b5d4-9089ecfdc43f)
+  - [Splunk Enterprise Certified Admin](https://www.credly.com/badges/7e54841b-5247-4c26-b5d4-9089ecfdc43f)
   - [Comptia Security+](https://www.credly.com/badges/f8252c61-6d69-4783-af96-d2023ac01c0c)
   - [Comptia CYSA+](https://www.credly.com/badges/4579e3da-9a9e-42ed-ae7f-4781e5d22275)
   - [AWS CCP](https://www.credly.com/badges/5e44fe98-3d20-41c0-99fa-8d2b85b3b802)
