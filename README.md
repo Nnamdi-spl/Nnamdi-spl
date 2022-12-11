@@ -15,7 +15,7 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/Nwuche01/Data-Structures-and-Algorithm/blob/main/README.md#usage)
   - [Information Gathering With Nmap/Python3](https://github.com/Nwuche01/Information-Gathering-with-Nmap-Python3/tree/main)
 - <b>Splunk</b>
--  -[Masking Sensitive Data in Splunk with SEDCMD and Regular Expressions](https://github.com/Nnamdi-spl/Maskinfg-Sensitve-Data-in-Splunk-with-SEDCMD-and-Regular-Expressions)
+  -[Masking Sensitive Data in Splunk with SEDCMD and Regular Expressions](https://github.com/Nnamdi-spl/Maskinfg-Sensitve-Data-in-Splunk-with-SEDCMD-and-Regular-Expressions)
   - [Splunk Authentication with LDAP](https://github.com/Nnamdi-spl/Splunk-Authentication-with-LDAP)
   - [Splunk SHC Rolling Upgrade](https://github.com/Nnamdi-spl/Splunk-SHC-Upgrade)
   - [Splunk Indexer Clustering](https://github.com/Nwuche01/Splunk-Indexer-Cluster)
@@ -46,7 +46,7 @@
 [linkedin]: https://www.linkedin.com/in/nnamdi-n-950b95130/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
