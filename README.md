@@ -27,12 +27,16 @@
 - <b>Certifications</b>
   - [Splunk Enterprise Security Certified Admin](https://www.credly.com/badges/603c0768-ddc7-4b9c-818f-fe10153c5f7c)
   - [Splunk Enterprise Certified Admin](https://www.credly.com/badges/7e54841b-5247-4c26-b5d4-9089ecfdc43f)
-  - [Comptia Security+](https://www.credly.com/badges/f8252c61-6d69-4783-af96-d2023ac01c0c)
-  - [Comptia CYSA+](https://www.credly.com/badges/4579e3da-9a9e-42ed-ae7f-4781e5d22275)
+  - [Splunk Cybersecurity Defense Analyst](https://www.credly.com/earner/earned/badge/6a43426f-18ea-465a-8d2c-e36763ad1a46)
+  - [CompTIA Security+](https://www.credly.com/badges/f8252c61-6d69-4783-af96-d2023ac01c0c)
+  - [CompTIA CYSA+](https://www.credly.com/badges/4579e3da-9a9e-42ed-ae7f-4781e5d22275)
   - [AWS CCP](https://www.credly.com/badges/5e44fe98-3d20-41c0-99fa-8d2b85b3b802)
   - [Red Hat Cerfied System Admin(RHCSA)](https://rhtapps.redhat.com/certifications/badge/verify/QA27AQX7YEKTSUK2VBGKSVMJJEAEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ=)
   - [ServiceNow CSA](https://partnerportal.service-now.com/SearchCertificate.do)
   - [Cribl Certified Observability Engineer](https://ccoecertificates.cribl.io/4271df85-f337-496b-b208-5198443336b7#gs.9lf3o8)
+  - [Certified Information Security Manager - CISM](https://www.credly.com/badges/b15fea4d-e83a-46bc-97cb-6c41f1f2465a)
+  - [ComTIA PenTest+](https://www.credly.com/earner/earned/badge/75f7d88f-055b-44ab-82fb-5f6bf164e2fd)
+  - [CompTIA Advannced Security Practitioner- CASP+](https://www.credly.com/earner/earned/badge/92423ba7-4977-4e70-9d55-106f8085718a)
 - <b>Education</b>
   - Bsc Computer Science
   - Msc CyberSecurity and Information Assurance - Ongoing
